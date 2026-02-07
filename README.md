@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">I'm a .NET Developer, Webmaster, and Database Administrator passionate about building efficient applications and managing robust digital infrastructures.</h3>
+<h3 align="center">Currently working at AKGUN Software as Software Support Specialist.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
